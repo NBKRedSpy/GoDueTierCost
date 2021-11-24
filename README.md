@@ -20,7 +20,7 @@ These values can be configured in the mod's config file.
 	- There should now be a BepinEx folder in the GuildofDungeoneeringUlt game directory.
 3. Run the game and exit once the main screen is shown.
 4. If BepInEx ran correctly, there should now be BepInEx\plugins directory in the game directory.
-5. Download the latest tier cost mod (com.NBKRedSpy.GoDUETierCost.dll) from here:  https://github.com/NBKRedSpy/GoDUENoLootLimit/releases
+5. Download the latest tier cost mod (com.NBKRedSpy.GoDUETierCost.dll) from here:  https://github.com/NBKRedSpy/GoDueTierCost/releases
 6. Copy the com.NBKRedSpy.GoDUETierCost.dll into the BepInEx\plugins directory.
 7. Run the game.
 
