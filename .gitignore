@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Source/GoDUETierCost/bin
+/Source/GoDUETierCost/obj
+/Source/GoDUETierCost/.vs
+.vs
+*.user
+/Archives
